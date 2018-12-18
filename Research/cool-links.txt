@@ -1,4 +1,4 @@
-# Cool Links
+# Cool Links #
 
-https://ndb.nal.usda.gov/ndb/search/list
-https://nuts.com/nuts/peanuts/
+USDA Food Composition Database - https://ndb.nal.usda.gov/ndb/search/list
+Peanuts - https://nuts.com/nuts/peanuts/

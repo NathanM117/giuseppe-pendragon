@@ -10,17 +10,20 @@ progresses, and then maybe this app will yell at you at the end of the week? We'
 
 ## Project Focus
 * Develop backend for an app in Java!
-* Learn a little about app development.
+* Learn a little about app development!
+* Execute object oriented principles!
 * Group Collaboration!!!
 
-## Project Background
-* College...
+## Project Funcionality
+* Create and load multiple user profiles based on user input.
+* Store data on food consumed by user as well as nutritional value.
+* Make end-of-week suggestions to user based on user profile.
 
 ## To Do...
 * Research health things
 * Think of how to store items...
 
-ex.
+Ex.
 ```
 // rough pseudo code...
 class Food {
@@ -35,6 +38,8 @@ food.carbs = 14;
 ```
 
 ## Next...
-* Meet to flesh out program function and idenify research topics!
-* Something...
+* Break down high level approach
+* Draft psuedo-code
+
+**fin**
 

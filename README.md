@@ -22,16 +22,19 @@ progresses, and then maybe this app will yell at you a he end of the week? We're
 
 ex.
 ```
+// rough pseudo code...
 static void Food {
 // per serving
 
-food.name = "blue-berry muffin;
-food.kcal = 14;
-food.carb = 4;
+food.name = "blue-berry muffin";
+food.kcal = 142;
+food.carbs = 14;
 .....
 
 }
 ```
 
-eh...
+## Next...
+* Meet to flesh out program function and idenify research topics!
+* Something...
 

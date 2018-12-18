@@ -5,7 +5,7 @@
  **Rudimentary design for a health app!** This app is supposed to do all kinds
 of cool things, like calculate your daily requirements for things like calories and water,
 and macronutrients, and peanuts! With that information, you can record what you ate and did as your day
-progresses, and then maybe this app will yell at you a he end of the week? We're working on it.
+progresses, and then maybe this app will yell at you at the end of the week? We're working on it.
 
 
 ## Project Focus

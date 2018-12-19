@@ -1,12 +1,11 @@
-## Cool Links 
-# asterisk means it's a big-ish deal #
+## Food Links 
 
-USDA Food Composition Database - https://ndb.nal.usda.gov/ndb/search/list
-Peanuts - https://nuts.com/nuts/peanuts/ 
-Alphabetical List of Number of Calories found in Specific Foods - http://www.invive.com/Calorie.html
-Food Calorie List - http://www.uncledavesenterprise.com/file/health/Food%20Calories%20List.pdf
-Food Database, Calorie King - https://www.calorieking.com/foods/
-Calories YOU SHOULD BE EATING BASED ON LIFESTYLE - http://www.ideal-weight-charts.com/caloriecounterchart.html #inferiorstatistic
-Calories YOU SHOULD BE EATING BASED ON AGE, GENDER, AND ACTIVITY LEVEL HA - https://www.cnpp.usda.gov/sites/default/files/usda_food_patterns/EstimatedCalorieNeedsPerDayTable.pdf #superiorstatistic
-**PDF of foods grouped with macros and calories!!!** - http://www.ideal-weight-charts.com/support-files/caloriecounterchart.pdf
-**Caloric Intake Based on a Few Formulas**- https://www.livestrong.com/article/178764-caloric-intake-formula/
+1. [USDA Food Composition Database](https://ndb.nal.usda.gov/ndb/search/list)
+2. [Peanuts](https://nuts.com/nuts/peanuts/) 
+3. [Alphabetical List of Number of Calories found in Specific Foods](http://www.invive.com/Calorie.html)
+4. [Food Calorie List](http://www.uncledavesenterprise.com/file/health/Food%20Calories%20List.pdf)
+5. [Food Database, Calorie King](https://www.calorieking.com/foods/)
+6. [Calories YOU SHOULD BE EATING BASED ON LIFESTYLE](http://www.ideal-weight-charts.com/caloriecounterchart.html)
+7. [A better version of 6.](https://www.cnpp.usda.gov/sites/default/files/usda_food_patterns/EstimatedCalorieNeedsPerDayTable.pdf)
+8. **[PDF of foods grouped with macros and calories!!!](http://www.ideal-weight-charts.com/support-files/caloriecounterchart.pdf)
+9. **[Caloric Intake Based on a Few Formulas](https://www.livestrong.com/article/178764-caloric-intake-formula/)

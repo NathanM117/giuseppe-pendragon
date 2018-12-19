@@ -20,26 +20,26 @@ progresses, and then maybe this app will yell at you at the end of the week? We'
 * Make end-of-week suggestions to user based on user profile.
 
 ## To Do...
-* Research health things
-* Think of how to store items...
+- [x] Outline Program Functionality
+- [ ] Research health things
+- [ ] Think of how to store items...
+- [ ] Break down high level approach
+- [ ] Draft psuedo-code
 
-Ex.
-```
-// rough pseudo code...
-class Food {
-// per serving
+*Ex.*
+    
+    // rough pseudo code...
+    class Food 
+    {
+    // per serving
 
-food.name = "blue-berry muffin";
-food.kcal = 142;
-food.carbs = 14;
-.....
+    food.name = "blue-berry muffin";
+    food.kcal = 142;
+    food.carbs = 14;
+    .....
 
-}
-```
+    }
 
-## Next...
-* Break down high level approach
-* Draft psuedo-code
+    
 
-**fin**
 

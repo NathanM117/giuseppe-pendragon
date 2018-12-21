@@ -21,9 +21,9 @@ progresses, and then maybe this app will yell at you at the end of the week? We'
 
 ## To Do...
 - [x] Outline Program Functionality
-- [ ] Research health things
-- [ ] Think of how to store items...
-- [ ] Break down high level approach
+- [x] Research health things
+- [x] Think of how to store items...
+- [x] Break down high level approach
 - [ ] Draft psuedo-code
 
 *Ex.*

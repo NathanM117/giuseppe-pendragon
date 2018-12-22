@@ -1,11 +1,10 @@
-
-import java.io.File;
-import java.io.FileNotFoundException;
 /*
  * NOT TESTED
  * Author(s): NathanM117
  */
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class LoadFile 

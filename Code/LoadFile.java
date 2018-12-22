@@ -1,29 +1,30 @@
+
+import java.io.File;
+import java.io.FileNotFoundException;
 /*
  * NOT TESTED
  * Author(s): NathanM117
  */
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class LoadFile 
 {
 	// needs access to Person "class" fields
 	// these are place-holders.
-	String name; 
-	int age;
-	double weight, height;
-	char sex, vegan;
-	boolean yes = false;
+	static String name; 
+	static int age;
+	static double weight, height;
+	static char sex, vegan;
+	static boolean yes = false;
 	
 	// This method loads an existing user profile and extracts data
 	// for diet recommendations.
-	public void Loadfile(String profile) 
+	public static void Loadfile(String profile) 
 	{
 		try 
 		{
-			File file = new File("profile/" + profile + ".txt");
+			File file = new File("C:/Users/Nathan!/Desktop/profile/" + profile + ".txt");
 			Scanner sc = new Scanner(file);
 			
 			// Scan parameters for later calculations

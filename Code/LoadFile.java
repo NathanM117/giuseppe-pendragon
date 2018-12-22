@@ -15,9 +15,8 @@ public class LoadFile
 	String name; 
 	int age;
 	double weight, height;
-	char sex;
+	char sex, vegan;
 	boolean yes = false;
-	boolean vegan = false;
 	
 	// This method loads an existing user profile and extracts data
 	// for diet recommendations.
@@ -34,7 +33,7 @@ public class LoadFile
 			height = sc.nextDouble();
 			age = sc.nextInt();
 			sex = sc.next().charAt(0);
-			vegan = sc.nexInt();
+			vegan = sc.next().charAt(0);
 			
 			// I imagine there being some kind of loop in the main menu
 			// that will keep bugging the user until a valid profile is provided
@@ -43,10 +42,10 @@ public class LoadFile
 			
 			sc.close();
 			
-		} //If your file isn't real...
+		}
 		catch( FileNotFoundException e)
 		{
-			// ...print something and exit to main menu
+			// print something and exit to main menu
 			System.out.println("Please enter valid profile name.");
 			return;
 		}

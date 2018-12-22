@@ -23,7 +23,7 @@ public class LoadFile
 	{
 		try 
 		{
-			File file = new File("C:/Users/Nathan!/Desktop/profile/" + profile + ".txt");
+			File file = new File("profiles/" + profile + ".txt");
 			Scanner sc = new Scanner(file);
 			
 			// Scan parameters for later calculations

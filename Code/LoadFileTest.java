@@ -9,7 +9,7 @@ public class LoadFileTest
 			LoadFile.Loadfile("Bob");
 			i++;
 			// prevent a got-dang infinite loop
-			if(i >= 1000)
+			if(i >= 1)
 				break;
 		}
 		
